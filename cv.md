@@ -20,7 +20,7 @@ A brief personal introduction (purpose and priorities, strengths, work experienc
 - Figma
 
 ### Code example:
-### Courses:
+### Education:
 ### Languages:
 - English - B2
 - Polish - C1
