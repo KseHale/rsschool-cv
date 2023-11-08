@@ -26,3 +26,15 @@ function otherAngle(a, b) {
 return 180 - a - b; {
 }
 ```
+
+### Education:
+
+- Belarusian State University
+- Faculty of Economics
+- 2007 - 2012 | BA
+
+### Languages:
+
+- English - B2
+- Polish - C1
+- Russian - Native
